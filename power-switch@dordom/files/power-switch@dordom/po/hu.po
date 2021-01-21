@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Last-Translator: Domonkos Gábor <domonkos.gabor1989@gmail.com>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+
+#: applet.js:65
+#. metadata.json -> name
+msgid "Power switch"
+msgstr "Főkapcsoló"
+
+#: applet.js:88
+msgid "System Settings"
+msgstr "Rendszerbeállítások"
+
+#: applet.js:98
+msgid "Restart to UEFI"
+msgstr "Újraindítás UEFI-be"
+
+#: applet.js:108
+msgid "Abort Delayed Shutdown"
+msgstr "Késleltetett leállítás megszakítása"
+
+#: applet.js:115
+#: timer.py:16
+msgid "Delayed Shutdown"
+msgstr "Késleltetett leállítás"
+
+#: applet.js:133
+msgid "Switch User"
+msgstr "Felhasználóváltás"
+
+#: applet.js:143
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#: applet.js:153
+msgid "Lock screen"
+msgstr "Képernyő zárolása"
+
+#: applet.js:165
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: applet.js:175
+msgid "Reboot"
+msgstr "Újraindítás"
+
+#: applet.js:185
+msgid "Shutdown"
+msgstr "Leállítás"
+
+#: applet.js:195
+msgid "Add a button to the menu in the setup!"
+msgstr "Adjon hozzá egy gombot a menühöz a beállításokban!"
+
+#: applet.js:209
+#: timer.py:23
+msgid "Shutdown after"
+msgstr "Leállítás ezután"
+
+#: timer.py:26
+msgid "Shutdown at"
+msgstr "Leállítás ekkor"
+
+#: timer.py:35
+msgid "%s hours"
+msgstr "%s óra"
+
+#: timer.py:37
+msgid "%s minute"
+msgstr "%s perc"
+
+#: timer.py:38
+msgid "%s seconds"
+msgstr "%s másodperc"
+
+#: timer.py:40
+msgid "Start"
+msgstr "Indítás"
+
+#. metadata.json -> description
+msgid "A nice power switch menu with some useful extra function like delayed shutdown and restart to UEFI."
+msgstr "Egy szép főkapcsoló menü néhány hasznos extra funkcióval, mint például késleltetett leállítás vagy újraindítás UEFI-be."
+
+#. settings-schema.json -> layout -> settings -> title
+msgid "Settings"
+msgstr "Beállítások"
+
+#. settings-schema.json -> layout -> settings -> visual
+msgid "Visual"
+msgstr "Kinézet"
+
+#. settings-schema.json -> layout -> settings -> extra-buttons
+msgid "Extra buttons"
+msgstr "Extra gombok"
+
+#. settings-schema.json -> layout -> settings -> user-management-buttons
+msgid "User management buttons"
+msgstr "Felhasználó kezelés gombok"
+
+#. settings-schema.json -> layout -> settings -> session-management-buttons
+msgid "Session management buttons"
+msgstr "Munkamenet kezelés gombok"
+
+#. settings-schema.json -> icon-type -> description
+msgid "Symbolic or fullcolor icons"
+msgstr "Szimbolikus vagy színes ikonok"
+
+#. settings-schema.json -> icon-type -> tooltip
+msgid "Switch between using symbolic and fullcolor icons."
+msgstr "Váltás szimbolikus és színes ikonok használata között."
+
+#. settings-schema.json -> show-system-settings -> description
+msgid "Show system settings icon"
+msgstr "Rendszerbeállítások ikon megjelenítése"
+
+#. settings-schema.json -> show-system-settings -> tooltip
+msgid "Show or don't show system settings icon?"
+msgstr "Megjelenítse vagy ne a rendszerbeállítások ikont?"
+
+#. settings-schema.json -> show-restart-to-uefi -> description
+msgid "Show restart to UEFI icon"
+msgstr "Újraindítás UEFI-be ikon megjelenítése"
+
+#. settings-schema.json -> show-restart-to-uefi -> tooltip
+msgid "Show or don't show restart to UEFI icon?"
+msgstr "Megjelenítse vagy ne az újraindítás UEFI-be ikont?"
+
+#. settings-schema.json -> show-delayed-shutdown -> description
+msgid "Show delayed shutdown icon"
+msgstr "Késleltetett leállítás ikon megjelenítése"
+
+#. settings-schema.json -> show-delayed-shutdown -> tooltip
+msgid "Show or don't show delayed shutdown icon?"
+msgstr "Megjelenítse vagy ne a késleltetett leállítás ikont?"
+
+#. settings-schema.json -> show-switch-user -> description
+msgid "Show switch user icon"
+msgstr "Felhasználóváltás ikon megjelenítése"
+
+#. settings-schema.json -> show-switch-user -> tooltip
+msgid "Show or don't show switch user icon?"
+msgstr "Megjelenítse vagy ne a felhasználóváltás ikont?"
+
+#. settings-schema.json -> show-logout -> description
+msgid "Show logout icon"
+msgstr "Kijelentkezés ikon megjelenítése"
+
+#. settings-schema.json -> show-logout -> tooltip
+msgid "Show or don't show logout icon?"
+msgstr "Megjelenítse vagy ne a kijelentkezés ikont?"
+
+#. settings-schema.json -> show-lock-screen -> description
+msgid "Show lock screen icon"
+msgstr "Képernyő zárolása ikon megjelenítése"
+
+#. settings-schema.json -> show-lock-screen -> tooltip
+msgid "Show or don't show lock screen icon?"
+msgstr "Megjelenítse vagy ne a képernyő zárolása ikont?"
+
+#. settings-schema.json -> show-suspend -> description
+msgid "Show suspend icon"
+msgstr "Felfüggesztés ikon megjelenítése"
+
+#. settings-schema.json -> show-suspend -> tooltip
+msgid "Show or don't show suspend icon?"
+msgstr "Megjelenítse vagy ne a felfüggesztés ikont?"
+
+#. settings-schema.json -> show-reboot -> description
+msgid "Show reboot icon"
+msgstr "Újraindítás ikon megjelenítése"
+
+#. settings-schema.json -> show-reboot -> tooltip
+msgid "Show or don't show reboot icon?"
+msgstr "Megjelenítse vagy ne az újraindítás ikont?"
+
+#. settings-schema.json -> show-shutdown -> description
+msgid "Show shutdown icon"
+msgstr "Leállítás ikon megjelenítése"
+
+#. settings-schema.json -> show-shutdown -> tooltip
+msgid "Show or don't show shutdown icon?"
+msgstr "Megjelenítse vagy ne a leállítás ikont?"

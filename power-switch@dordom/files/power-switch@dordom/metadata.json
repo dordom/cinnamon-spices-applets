@@ -1,0 +1,9 @@
+{
+    "uuid": "power-switch@dordom",
+    "name": "Power switch",
+    "version": 1.0,
+    "description": "A nice power switch menu with some useful extra function like delayed shutdown and restart to UEFI.",
+    "contributors": "If you like my applet please donate. https://www.paypal.com/donate?hosted_button_id=UQ36TM48VSKPW",
+    "icon": "system-shutdown",
+    "max-instances": -1
+}

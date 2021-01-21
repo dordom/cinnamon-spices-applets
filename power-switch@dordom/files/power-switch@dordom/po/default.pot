@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+
+#. metadata.json -> name
+#: applet.js:65
+msgid "Power switch"
+msgstr ""
+
+#: applet.js:88
+msgid "System Settings"
+msgstr ""
+
+#: applet.js:98
+msgid "Restart to UEFI"
+msgstr ""
+
+#: applet.js:108
+msgid "Abort Delayed Shutdown"
+msgstr ""
+
+#: applet.js:115 timer.py:16
+msgid "Delayed Shutdown"
+msgstr ""
+
+#: applet.js:133
+msgid "Switch User"
+msgstr ""
+
+#: applet.js:143
+msgid "Logout"
+msgstr ""
+
+#: applet.js:153
+msgid "Lock screen"
+msgstr ""
+
+#: applet.js:165
+msgid "Suspend"
+msgstr ""
+
+#: applet.js:175
+msgid "Reboot"
+msgstr ""
+
+#: applet.js:185
+msgid "Shutdown"
+msgstr ""
+
+#: applet.js:195
+msgid "Add a button to the menu in the setup!"
+msgstr ""
+
+#: applet.js:209 timer.py:23
+msgid "Shutdown after"
+msgstr ""
+
+#: timer.py:26
+msgid "Shutdown at"
+msgstr ""
+
+#: timer.py:35
+msgid "%s hours"
+msgstr ""
+
+#: timer.py:37
+msgid "%s minute"
+msgstr ""
+
+#: timer.py:38
+msgid "%s seconds"
+msgstr ""
+
+#: timer.py:40
+msgid "Start"
+msgstr ""
+
+#. metadata.json -> description
+msgid ""
+"A nice power switch menu with some useful extra function like delayed "
+"shutdown and restart to UEFI."
+msgstr ""
+
+#. settings-schema.json -> layout -> settings -> title
+msgid "Settings"
+msgstr ""
+
+#. settings-schema.json -> layout -> settings -> visual
+msgid "Visual"
+msgstr ""
+
+#. settings-schema.json -> layout -> settings -> extra-buttons
+msgid "Extra buttons"
+msgstr ""
+
+#. settings-schema.json -> layout -> settings -> user-management-buttons
+msgid "User management buttons"
+msgstr ""
+
+#. settings-schema.json -> layout -> settings -> session-management-buttons
+msgid "Session management buttons"
+msgstr ""
+
+#. settings-schema.json -> icon-type -> description
+msgid "Symbolic or fullcolor icons"
+msgstr ""
+
+#. settings-schema.json -> icon-type -> tooltip
+msgid "Switch between using symbolic and fullcolor icons."
+msgstr ""
+
+#. settings-schema.json -> show-system-settings -> description
+msgid "Show system settings icon"
+msgstr ""
+
+#. settings-schema.json -> show-system-settings -> tooltip
+msgid "Show or don't show system settings icon?"
+msgstr ""
+
+#. settings-schema.json -> show-restart-to-uefi -> description
+msgid "Show restart to UEFI icon"
+msgstr ""
+
+#. settings-schema.json -> show-restart-to-uefi -> tooltip
+msgid "Show or don't show restart to UEFI icon?"
+msgstr ""
+
+#. settings-schema.json -> show-delayed-shutdown -> description
+msgid "Show delayed shutdown icon"
+msgstr ""
+
+#. settings-schema.json -> show-delayed-shutdown -> tooltip
+msgid "Show or don't show delayed shutdown icon?"
+msgstr ""
+
+#. settings-schema.json -> show-switch-user -> description
+msgid "Show switch user icon"
+msgstr ""
+
+#. settings-schema.json -> show-switch-user -> tooltip
+msgid "Show or don't show switch user icon?"
+msgstr ""
+
+#. settings-schema.json -> show-logout -> description
+msgid "Show logout icon"
+msgstr ""
+
+#. settings-schema.json -> show-logout -> tooltip
+msgid "Show or don't show logout icon?"
+msgstr ""
+
+#. settings-schema.json -> show-lock-screen -> description
+msgid "Show lock screen icon"
+msgstr ""
+
+#. settings-schema.json -> show-lock-screen -> tooltip
+msgid "Show or don't show lock screen icon?"
+msgstr ""
+
+#. settings-schema.json -> show-suspend -> description
+msgid "Show suspend icon"
+msgstr ""
+
+#. settings-schema.json -> show-suspend -> tooltip
+msgid "Show or don't show suspend icon?"
+msgstr ""
+
+#. settings-schema.json -> show-reboot -> description
+msgid "Show reboot icon"
+msgstr ""
+
+#. settings-schema.json -> show-reboot -> tooltip
+msgid "Show or don't show reboot icon?"
+msgstr ""
+
+#. settings-schema.json -> show-shutdown -> description
+msgid "Show shutdown icon"
+msgstr ""
+
+#. settings-schema.json -> show-shutdown -> tooltip
+msgid "Show or don't show shutdown icon?"
+msgstr ""

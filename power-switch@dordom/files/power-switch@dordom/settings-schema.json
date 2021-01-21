@@ -1,0 +1,91 @@
+{
+    "layout" : {
+        "type" : "layout",
+        "pages" : ["settings"],
+        "settings" : {
+            "type" : "page",
+            "title" : "Settings",
+            "sections" : ["visual", "extra-buttons", "user-management-buttons", "session-management-buttons"]
+        },
+        "visual" : {
+            "type" : "section",
+            "title" : "Visual",
+            "keys" : ["icon-type"]
+        },
+        "extra-buttons" : {
+            "type" : "section",
+            "title" : "Extra buttons",
+            "keys" : ["show-system-settings", "show-restart-to-uefi", "show-delayed-shutdown"]
+        },
+        "user-management-buttons" : {
+            "type" : "section",
+            "title" : "User management buttons",
+            "keys" : ["show-switch-user", "show-logout", "show-lock-screen"]
+        },
+        "session-management-buttons" : {
+            "type" : "section",
+            "title" : "Session management buttons",
+            "keys" : ["show-suspend", "show-reboot", "show-shutdown"]
+        }
+    },
+    "icon-type" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Symbolic or fullcolor icons",
+        "tooltip" : "Switch between using symbolic and fullcolor icons."
+    },
+    "show-system-settings" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show system settings icon",
+        "tooltip" : "Show or don't show system settings icon?"
+    },
+    "show-restart-to-uefi" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show restart to UEFI icon",
+        "tooltip" : "Show or don't show restart to UEFI icon?"
+    },
+    "show-delayed-shutdown" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show delayed shutdown icon",
+        "tooltip" : "Show or don't show delayed shutdown icon?"
+    },
+    "show-switch-user" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show switch user icon",
+        "tooltip" : "Show or don't show switch user icon?"
+    },
+    "show-logout" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show logout icon",
+        "tooltip" : "Show or don't show logout icon?"
+    },
+    "show-lock-screen" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show lock screen icon",
+        "tooltip" : "Show or don't show lock screen icon?"
+    },
+    "show-suspend" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show suspend icon",
+        "tooltip" : "Show or don't show suspend icon?"
+    },
+    "show-reboot" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show reboot icon",
+        "tooltip" : "Show or don't show reboot icon?"
+    },
+    "show-shutdown" : {
+        "type" : "checkbox",
+        "default" : true,
+        "description" : "Show shutdown icon",
+        "tooltip" : "Show or don't show shutdown icon?"
+    }
+}
